@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="IconPacks.UWP.App.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:IconPacks.UWP.App"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:iconPacks="using:MahApps.Metro.IconPacks"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+
+        <Button>
+            <iconPacks:PackIconWeatherIcons Kind="DaySunny" Height="72" Width="72" Margin="4" />
+        </Button>
+        <iconPacks:PackIconWeatherIcons Kind="DaySunny" Height="72" Width="72" Margin="4" Spin="True" />
+        <iconPacks:PackIconWeatherIcons Kind="DayCloudy" Height="72" Width="72" Margin="4" />
+        <iconPacks:PackIconWeatherIcons Kind="DayCloudyHigh" Height="72" Width="72" Margin="4" />
+        <iconPacks:PackIconWeatherIcons Kind="DayLightning" Height="72" Width="72" Margin="4" />
+        <iconPacks:PackIconWeatherIcons Kind="DayThunderstorm" Height="72" Width="72" Margin="4" />
+
+    </StackPanel>
+</Page>
