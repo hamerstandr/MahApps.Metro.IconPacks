@@ -25,7 +25,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MahApps.Metro.IconPacks.Wea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MahApps.Metro.IconPacks.Browser", "MahApps.Metro.IconPacks.Browser\MahApps.Metro.IconPacks.Browser.csproj", "{4F438058-55FD-4CE3-BBD4-DB7E0A71F36B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconPacks.UWP.App", "C:\Users\jkarger\source\repos\IconPacks.UWP.App\IconPacks.UWP.App\IconPacks.UWP.App.csproj", "{8D4943B5-4008-4A4B-9BD1-5B02F84738B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IconPacks.UWP.App", "IconPacks.UWP.App\IconPacks.UWP.App.csproj", "{8D4943B5-4008-4A4B-9BD1-5B02F84738B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
