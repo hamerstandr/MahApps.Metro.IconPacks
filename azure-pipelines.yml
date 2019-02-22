@@ -24,7 +24,7 @@ pr:
 name: $(Build.BuildId)
 
 pool:
-  vmImage: 'vs-2019-ent-preview-ws2016'
+  vmImage: 'vs-2019-preview-ws2016'
 
 variables:
   solution: '**/*.sln'
